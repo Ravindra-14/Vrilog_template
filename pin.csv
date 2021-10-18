@@ -1,0 +1,6 @@
+direction,name,msb,lsd
+input,a,,
+input,b,1,0
+output,q,,
+output,y,,
+output,x,,
